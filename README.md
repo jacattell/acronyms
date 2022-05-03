@@ -183,6 +183,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | DCF | Digital Case File | | An attempt at creating end-to-end digital/modern justice system from Police -> Crown Prosecution Service -> Courts -> Prisons -> Probation |
 | DD | Deputy Director | | |
 | DDaT | Digital, Data and Technology | | |
+| DCM | Digital & Communication Manager | | |
 | DDC | deputy director of custody | | regional responsibilty for a group of prisons |
 | DDC | Deputy Director of Custody | | |
 | DDC | Digital Document Conversion | | |
@@ -353,6 +354,7 @@ A better mechanism to enable people without github accounts to suggest changes w
 | LAALAA | Legal Aid Agency Legal Adviser API | https://github.com/ministryofjustice/laa-legal-adviser-api | API for finding Legal Providers for specific categories of law close to a physical location (postcode or address). |
 | LASPO | Legal Aid, Sentencing and Punishment of Offenders Act 2012 | | Essentially this act 'reformed' the scope of what legal aid was available for (decreased the scope). When talking to subject matter experts at the level of granting legal aid funding, you may hear reference to phrases such 'Schedule 1' of the act, which describes what cases are 'in scope' or 'out of scope' for legal aid. LASPO gave rise to the need for Exceptional Case Funding (ECF) to ensure that human rights were not breached by cutting the scope of legal aid|
 | LBs | Living Blocks | | |
+| LDCM | Local Digital & Communication Manager | | |
 | LDD | Learning Difficulties and Disabilities | | |
 | LDO | Like, Duh!... Obviously! | | |
 | LDU | Local Delivery Unit | | Probation |
